@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Aria Melody",
+    "category": "Singer",
+    "location": "Mumbai",
+    "fee": "$500 - $1000"
+  },
+  {
+    "name": "Grace Twirl",
+    "category": "Dancer",
+    "location": "Bangalore",
+    "fee": "$700 - $1200"
+  }
+]

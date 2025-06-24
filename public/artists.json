@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Aria Melody",
+    "category": "Singer",
+    "price": "$500 - $1000",
+    "location": "Mumbai"
+  },
+  {
+    "id": 2,
+    "name": "Rhythm Blaze",
+    "category": "DJ",
+    "price": "$1000 - $1500",
+    "location": "Delhi"
+  },
+  {
+    "id": 3,
+    "name": "Grace Twirl",
+    "category": "Dancer",
+    "price": "$700 - $1200",
+    "location": "Bangalore"
+  },
+  {
+    "id": 4,
+    "name": "Voice Nova",
+    "category": "Speaker",
+    "price": "$300 - $800",
+    "location": "Hyderabad"
+  }
+]
